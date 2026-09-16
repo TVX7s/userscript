@@ -148,8 +148,8 @@
 // @match        *://lnbz.la/*
 // @match        *://linkzy.space/*
 // @match        *://ez4short.com/*
-// @downloadURL  https://github.com/TVX7s/userscript/raw/refs/heads/main/tvxlol.user.js
-// @updateURL    https://github.com/TVX7s/userscript/raw/refs/heads/main/tvxlol.user.js
+// @downloadURL  https://raw.githubusercontent.com/TVX7s/userscript/refs/heads/main/tvx.lol.user.js
+// @updateURL    https://raw.githubusercontent.com/TVX7s/userscript/refs/heads/main/tvx.lol.user.js
 // @homepageURL  https://tvx.lol
 // @icon         https://i.ibb.co/R4G0dBHH/TVX-image.jpg
 // @run-at        document-start
